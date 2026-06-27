@@ -6,7 +6,7 @@
 [Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
 
 ## Solution Overview
-* The solution was to build out a basic employee onboarding pipeline in active direction. I set up the RBAC matrix and ensured users were given access ONLY according to their role. I also simulated a mock ticket where a user was provisioned the incorrect level of access!
+* The solution was to build out a basic employee onboarding pipeline in active directory. I set up the RBAC matrix and ensured users were given access ONLY according to their role. I also simulated a mock ticket where a user was provisioned the incorrect level of access!
 
 [Provide 4 to 6 sentences describing what you built and how it solved the problem. Cover the new domain creation, the structural OU design, the security groups, the flat RBAC model, and how user provisioning was secured.]
 
